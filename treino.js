@@ -29,6 +29,8 @@ console.log("Final Value: " + FinalValue + " R$");
 
  // exercicio 2 ok 100%;
 
+ console.log("alguma coisa...")
+
 
 
 
